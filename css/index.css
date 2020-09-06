@@ -1,0 +1,21 @@
+.index-text {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #eedb9d;
+  letter-spacing: 4px;
+  font-size: 20px; }
+
+.btn-prop {
+  position: absolute;
+  bottom: 350px;
+  width: 200px;
+  margin-left: -100px;
+  left: 50%;
+  color: #fff;
+  background-color: transparent !important; }
+
+.btn-prop:hover {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+  color: black; }
