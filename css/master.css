@@ -6,18 +6,18 @@ header {
   background-color: #204B7E; }
 
 footer {
-  border-top: 1px solid #204B7E;
-  padding-top: 32px;
-  padding-bottom: 4px; }
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 0vh; }
   footer .copy-right {
-    font-size: 70%;
-    margin-top: 32px;
+    font-size: 1vh;
     text-align: center;
-    color: #204B7E; }
+    color: white; }
 
 .text-theme {
   color: #204B7E;
-  font-size: 20px; }
+  font-size: 2.5vh; }
 
 html {
   height: 100%;
